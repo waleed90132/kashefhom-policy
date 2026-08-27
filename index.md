@@ -52,7 +52,6 @@ Kashefhom may display advertisements provided by compliant ad partners (such as 
 ### 5. Terms of Service & Disclaimer ⚖️
 * **Permitted Use:** Designed exclusively for personal, non-commercial directory lookup within Kuwait.
 * **Directory Nature:** Information is aggregated from public indexes and directories. Records are provided "as is" without warranties of real-time completeness or 100% accuracy.
-* **Prohibited Conduct:** Any automated scraping, reverse engineering, or intentional API abuse is prohibited.
 
 ---
 
@@ -114,7 +113,6 @@ For feedback, general inquiries, or support:
 ### 5. شروط الاستخدام وإخلاء المسؤولية ⚖️
 * **الاستخدام المسموح:** التطبيق مخصص للاستخدام الشخصي للاستدلال والبحث عن الأرقام داخل دولة الكويت.
 * **طبيعة الدليل:** السجلات مجمعة من مصادر وفهارس عامة؛ ويُقدّم الدليل "كما هو" دون ضمانات مطلقة لشمولية ودقة كافة الأسماء بنسبة 100%.
-* **الاستخدام المحظور:** يُمنع التجريف الآلي للبيانات (Scraping) أو محاولة اختراق وهندسة الـ API عكسياً.
 
 ---
 
